@@ -1,0 +1,24 @@
+# 本机和编辑器文件
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# 凭证和本地环境（只允许无真实密钥的示例）
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# 原始数据和本地输出；其他位置仍需人工检查
+本地数据/
+临时文件/
+运行输出/
+*.log
+
+# 后续工具运行产生的缓存
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
