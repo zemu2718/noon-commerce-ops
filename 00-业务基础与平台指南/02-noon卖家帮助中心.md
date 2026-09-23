@@ -2,7 +2,12 @@
 
 查入驻、商品、履约、营销、财务和售后规则。
 
-[noon 卖家帮助中心](https://helpcenter.noon.partners/en)
+## 卖家后台与帮助中心
+
+- [noon Seller Lab｜卖家入口](https://sell.noon.com/)：登录或注册卖家账号，管理商品、库存、订单、履约、活动及经营数据；当前入口可选择 UAE（阿联酋）、KSA（沙特）或 Egypt（埃及）。
+- [noon 卖家帮助中心](https://helpcenter.noon.partners/en)：查询入驻、商品、履约、营销、财务和售后规则。
+
+后台实际能看到的功能取决于站点、账号、履约方式和已开通权限；本仓库不保存账号、密码或原始报表。
 
 ## 按问题找资料
 
